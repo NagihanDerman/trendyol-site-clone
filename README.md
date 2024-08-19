@@ -1,5 +1,6 @@
 ## Trendyol Clone
-- HTML CSS kullanilarak tasarlandi.
+
+- Designed using HTML and CSS.
 
 # GIF
 
